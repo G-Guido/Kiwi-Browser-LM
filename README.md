@@ -3,6 +3,7 @@
 Lite Mod of the Kiwi Browser
 
 
+
 Features: 
 
 * Removed "Exact Location" (Privacy Matter)
@@ -15,15 +16,18 @@ Features:
 
 
 
+
 BGPlay Extension
 
 * Background Play any Media (YouTube, Audio Books etc.)
 even with your Display off.
 
 
+
 UBlock Extension 
 
 Block any ads & import custom user filters.
+
 
 
 
